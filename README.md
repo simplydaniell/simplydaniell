@@ -1,0 +1,3 @@
+- 👋 Hello, I’m @simplydaniell
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning JS and Python (django)
